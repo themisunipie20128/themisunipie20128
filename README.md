@@ -61,8 +61,8 @@
 ### Βήματα Εκτέλεσης
 1. Κλωνάρετε το repository:
     ```bash
-    git clone https://github.com/<username>/YpoxreotikiErgasia24_<AM>_<Epwnymo>_<Onoma>.git
-    cd YpoxreotikiErgasia24_<AM>_<Epwnymo>_<Onoma>
+    git clone https://github.com/<username>/YpoxreotikiErgasia24_<E20128>_<PAVLOU>_<THEMISTOCLES>.git
+    cd YpoxreotikiErgasia24_<E20128>_<PAVLOU>_<THEMISTOCLES>
     ```
 
 2. Δημιουργήστε το Docker image:
