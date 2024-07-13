@@ -1,4 +1,4 @@
-# YpoxreotikiErgasia24_<AM>_<Epwnymo>_<Onoma>
+# YpoxreotikiErgasia24_<E20128>_<PAVLOU>_<THEMISTOCLES>
 
 ## Περιεχόμενα
 1. [Επιπλέων Παραδοχές που Επιλέξατε](#επιπλέων-παραδοχές-που-επιλέξατε)
@@ -75,7 +75,7 @@
     docker-compose up
     ```
 
-4. Η εφαρμογή θα είναι διαθέσιμη στο `http://localhost:5000`.
+
 
 ## Τρόπος Χρήσης του Συστήματος
 
